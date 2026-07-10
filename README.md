@@ -4,6 +4,9 @@ CineSage is a Generative AI application that extracts structured movie informati
 
 ---
 
+### LIVE DEMO
+https://moviereview-qkv2rn8uat5a9qfvxha39w.streamlit.app/
+
 ## 🚀 Features
 
 - 🎥 Extract movie information from plain text
@@ -189,7 +192,9 @@ The story follows astronauts searching for a new home for humanity after Earth b
 
 ## 📸 Screenshots
 
-
+![home_page](images/homePage.png)
+![output_1](images/output1.png)
+![output_2](images/op2.png)
 
 ---
 
